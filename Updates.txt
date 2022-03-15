@@ -1,0 +1,23 @@
+/**
+ * Changelog:
+ * --
+ * Pre-release 1.0 (6/22/2021):
+ * - Added functionality for speaker to play C4 and D4 
+ *   between two push-buttons.
+ * 
+ * Pre-release 1.1 (6/25/2021):
+ * - Added push-buttons for all seven notes.
+ * - Added functions to play in octaves 3, 4, and 5.
+ * - Incorporated potentiometer to dial between octaves.
+ * 
+ * Pre-release 1.2 (6/27/2021):
+ * - Added functions to play in octaves 1 to 7.
+ * - Added LCD to display current octave to user.
+ * - Moved around pins to accomodate LCD wiring.
+ * 
+ * --
+ * Planned:
+ * - Add a record/playback feature.
+ * - Add sharp notes.
+ * - Develop PCB.
+ */
